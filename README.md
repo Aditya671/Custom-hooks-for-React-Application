@@ -16,3 +16,4 @@
    5. useKeyPressObserver
    6. useUnsavedExitPrompt
    7. useViewPort
+   8. useSpeechRecognizer
