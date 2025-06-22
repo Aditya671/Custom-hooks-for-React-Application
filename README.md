@@ -17,3 +17,4 @@
    6. useUnsavedExitPrompt
    7. useViewPort
    8. useSpeechRecognizer
+   9. useTextToSpeech
